@@ -3,7 +3,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main className="min-h-screen bg-[#fdfaf5] text-[#3A2D28] flex flex-col items-center justify-center text-center px-4">
-      <div className="mb-6">
+      <div className="mb-6 ">
         <Image
           src="/10.jpg"
           alt="MNG Yoga"
