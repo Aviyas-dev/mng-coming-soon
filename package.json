@@ -2,13 +2,13 @@
   "name": "mng-coming-soon",
   "version": "0.1.0",
   "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start",
-    "lint": "next lint",
-     "vercel-build": "next build"
-  },
+"scripts": {
+  "dev": "next dev",
+  "build": "next build",
+  "start": "next start",
+  "lint": "next lint",
+  "vercel-build": "next build"
+},
   "dependencies": {
     "next": "^15.3.0",
     "react": "^19.1.0",
