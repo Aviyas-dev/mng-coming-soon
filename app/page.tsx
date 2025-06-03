@@ -13,7 +13,7 @@ export default function Home() {
         />
       </div>
       <h1 className="text-4xl md:text-6xl font-bold mb-6">🧘‍♀️ MNG Yoga</h1>
-      <p className="text-xl md:text-2xl mb-2">06.11-нд нээлтээ хийнэ!</p>
+      <p className="text-xl md:text-2xl mb-2">06.15-нд нээлтээ хийнэ!</p>
       <p className="text-md text-gray-500">Тун удахгүй уулзацгаая ✨</p>
     </main>
   );
